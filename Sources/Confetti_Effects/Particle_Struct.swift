@@ -2,7 +2,7 @@
 //  Particle_Struct.swift
 //  Confetti_Effects
 //
-//  Created by Taric Santos de Andrade on 2025-04-23.
+//  Created by Taric on 2025-04-23.
 //
 import SwiftUI
 import Foundation // For TimeInterval, UUID
