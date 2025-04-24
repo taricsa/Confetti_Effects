@@ -144,6 +144,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Taric Santos de Andrade - [GitHub: @taricsa](https://github.com/taricsa)
+Taric Andrade - [GitHub: @taricsa](https://github.com/taricsa)
 
 Feel free to reach out with any questions, issues, or suggestions! 
