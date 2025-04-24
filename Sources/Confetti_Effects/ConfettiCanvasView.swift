@@ -2,7 +2,7 @@
 //  ConfettiCanvasView.swift
 //  Confetti_Effects
 //
-//  Created by Taric Santos de Andrade on 2025-04-23.
+//  Created by Taric on 2025-04-23.
 //
 import SwiftUI
 
